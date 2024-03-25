@@ -1,0 +1,8 @@
+# Dependency directories
+
+node_modules/
+
+# wrangler project
+
+.dev.vars
+.wrangler/
